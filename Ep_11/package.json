@@ -1,0 +1,25 @@
+{
+  "name": "ep_04",
+  "version": "1.0.0",
+  "description": "creating a food ordering website",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "Priyanshu Soni",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.45",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.10"
+  }
+}
